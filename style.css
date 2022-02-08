@@ -1,0 +1,21 @@
+*{
+    margin: 0;padding: 0;
+}
+h1{
+    background-color: aqua;
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    text-align: center;
+    padding-top: 30px;
+    margin: 30px 0 60px;
+}
+p{
+    
+    background-color: rgb(217, 255, 0);
+    color: black;
+    border: 2px solid rgb(31, 17, 17);
+    height:150px;
+    font-size: 30px;
+    margin: 30px 0;
+}
